@@ -1,4 +1,4 @@
-= JSON parser =
+= Lift + Slick =
 This is a sample application to demonstrate how to integrate Lift with Slick
 
 == About the app ==
