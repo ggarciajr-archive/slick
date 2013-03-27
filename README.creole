@@ -1,0 +1,7 @@
+= JSON parser =
+This is a sample application to demonstrate how to integrate Lift with Slick
+
+== About the app ==
+* scala 2.10.0
+* lift 2.5-m4
+* sbt 0.12.0
